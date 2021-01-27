@@ -1,0 +1,1 @@
+data$new = data$Global_Sales * 2
